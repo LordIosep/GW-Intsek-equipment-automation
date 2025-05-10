@@ -1,0 +1,29 @@
+{
+    "perfiles": [
+        {
+            "nombre": "Perfil Prueba",
+            "osciloscopio": {
+                "ip": "172.118.1.235",
+                "puerto": 3000
+            },
+            "generador": {
+                "ip": "172.118.1.233",
+                "puerto": 1026
+            },
+            "activo": true
+        },
+        {
+            "nombre": "Nuevo Perfil",
+            "osciloscopio": {
+                "ip": "172.118.1.238",
+                "puerto": 3000
+            },
+            "generador": {
+                "ip": "172.118.1.236",
+                "puerto": 1026
+            },
+            "activo": true
+        }
+    ],
+    "perfil_actual": "Nuevo Perfil"
+}
