@@ -1,0 +1,1 @@
+# GW-Intsek-equipment-automation
